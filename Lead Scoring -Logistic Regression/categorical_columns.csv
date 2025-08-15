@@ -1,0 +1,69 @@
+column_name,column_values,value_percentage
+Lead_Origin,Landing Page Submission,52.88
+Lead_Origin,API,38.74
+Lead_Origin,Lead Add Form,7.77
+Lead_Origin,Lead Import,0.6
+Lead_Origin,Quick Add Form,0.01
+Lead_Source,Google,31.16
+Lead_Source,Direct Traffic,27.63
+Lead_Source,Olark Chat,19.07
+Lead_Source,Organic Search,12.54
+Lead_Source,Reference,5.8
+Lead_Source,Welingak Website,1.54
+Lead_Source,Referral Sites,1.36
+Lead_Source,Facebook,0.6
+Lead_Source,bing,0.07
+Lead_Source,google,0.05
+Lead_Source,Click2call,0.04
+Lead_Source,Press_Release,0.02
+Lead_Source,Social Media,0.02
+Lead_Source,Live Chat,0.02
+Lead_Source,youtubechannel,0.01
+Lead_Source,testone,0.01
+Lead_Source,Pay per Click Ads,0.01
+Lead_Source,welearnblog_Home,0.01
+Lead_Source,WeLearn,0.01
+Lead_Source,blog,0.01
+Lead_Source,NC_EDM,0.01
+Last_Activity,Email Opened,37.62
+Last_Activity,SMS Sent,30.04
+Last_Activity,Olark Chat Conversation,10.65
+Last_Activity,Page Visited on Website,7.0
+Last_Activity,Converted to Lead,4.68
+Last_Activity,Email Bounced,3.57
+Last_Activity,Email Link Clicked,2.92
+Last_Activity,Form Submitted on Website,1.27
+Last_Activity,Unreachable,1.02
+Last_Activity,Unsubscribed,0.67
+Last_Activity,Had a Phone Conversation,0.33
+Last_Activity,Approached upfront,0.1
+Last_Activity,View in browser link Clicked,0.07
+Last_Activity,Email Received,0.02
+Last_Activity,Email Marked Spam,0.02
+Last_Activity,Visited Booth in Tradeshow,0.01
+Last_Activity,Resubscribed to emails,0.01
+Occupation,Unemployed,85.5
+Occupation,Working Professional,10.78
+Occupation,Student,3.21
+Occupation,Other,0.24
+Occupation,Housewife,0.15
+Occupation,Businessman,0.12
+Course_Reason,Better Career Prospects,99.95
+Course_Reason,Flexibility & Convenience,0.03
+Course_Reason,Other,0.02
+Last_Notable_Activity,Modified,36.87
+Last_Notable_Activity,Email Opened,30.6
+Last_Notable_Activity,SMS Sent,23.51
+Last_Notable_Activity,Page Visited on Website,3.44
+Last_Notable_Activity,Olark Chat Conversation,1.98
+Last_Notable_Activity,Email Link Clicked,1.87
+Last_Notable_Activity,Email Bounced,0.65
+Last_Notable_Activity,Unsubscribed,0.51
+Last_Notable_Activity,Unreachable,0.35
+Last_Notable_Activity,Had a Phone Conversation,0.15
+Last_Notable_Activity,Email Marked Spam,0.02
+Last_Notable_Activity,Approached upfront,0.01
+Last_Notable_Activity,Resubscribed to emails,0.01
+Last_Notable_Activity,View in browser link Clicked,0.01
+Last_Notable_Activity,Form Submitted on Website,0.01
+Last_Notable_Activity,Email Received,0.01
